@@ -1,0 +1,14 @@
+Curso de Java!
+Hoy es martes
+Lunes
+Martes
+Miercoles
+Jueves
+Viernes
+Sabado
+Domingo
+Primavera
+Verano
+Otono
+Invierno
+Primavera
